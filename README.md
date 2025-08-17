@@ -11,5 +11,5 @@ It helped me practice **responsive design** and improve my **CSS layout skills**
 - CSS3 (Flexbox / Grid)
 
 ## 📂 Useful Links
-- [Frontend Mentor Solution Page](رابط الحل)
-- [GitHub Repository](رابط الريبو)
+- [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/html5-semantic-structure-css3-styling-variables-custom-properties-yqrbYb3gLu)
+
